@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2022-09-30T07:14:49.834Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.3.7" etag="SLV3KXiJ2660iAcANH8z" type="github"><diagram id="BytxuOhy2EkJ_opa7Mz4">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-30T07:46:42.211Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="IJMAOPCPpYyo_-togtw2" version="20.3.7" type="github">
+  <diagram id="BytxuOhy2EkJ_opa7Mz4" name="Page-1">
+    <mxGraphModel dx="1194" dy="3974" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oouPe3FaEBid6wUyFQfi-10" value="Health Center" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.service;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-2840" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="oouPe3FaEBid6wUyFQfi-11" value="Patient Record" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.event;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-2697.5" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oouPe3FaEBid6wUyFQfi-15" value="Check Up Patient" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-2710" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="oouPe3FaEBid6wUyFQfi-16" value="Diagnostic Treatment Plan" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-2550" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="oouPe3FaEBid6wUyFQfi-17" value="Follow Up Appointment Schedule" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-2550" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="oouPe3FaEBid6wUyFQfi-18" value="Data Payment" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-2710" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="oouPe3FaEBid6wUyFQfi-19" value="Receipt" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" vertex="1" parent="1">
+          <mxGeometry x="670" y="-2710" width="150" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="oouPe3FaEBid6wUyFQfi-21" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=35.42;notch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-2690" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="oouPe3FaEBid6wUyFQfi-23" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=90;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="65" y="-2750" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="oouPe3FaEBid6wUyFQfi-26" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=1;dx=50.9;notch=0;rotation=90;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="262.5" y="-2610" width="85" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="oouPe3FaEBid6wUyFQfi-27" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-2530" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="oouPe3FaEBid6wUyFQfi-29" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="600" y="-2690" width="70" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="oouPe3FaEBid6wUyFQfi-32" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=-90;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="482.5" y="-2610" width="85" height="35" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
