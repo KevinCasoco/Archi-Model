@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-30T08:03:50.249Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="fdIGwa3IPWdJAo80Zk8S" version="20.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-30T08:04:45.840Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="AV93V4byWVkbEWd7Ysnr" version="20.3.7" type="github">
   <diagram id="BytxuOhy2EkJ_opa7Mz4" name="Page-1">
     <mxGraphModel dx="880" dy="3797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
         <mxCell id="oouPe3FaEBid6wUyFQfi-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oouPe3FaEBid6wUyFQfi-18" target="oouPe3FaEBid6wUyFQfi-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oouPe3FaEBid6wUyFQfi-18" value="Data Payment" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" vertex="1" parent="1">
+        <mxCell id="oouPe3FaEBid6wUyFQfi-18" value="Payment" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" vertex="1" parent="1">
           <mxGeometry x="450" y="-2710" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="oouPe3FaEBid6wUyFQfi-19" value="Receipt" style="html=1;outlineConnect=0;whiteSpace=wrap;fillColor=#ffff99;shape=mxgraph.archimate3.application;appType=proc;archiType=rounded;" vertex="1" parent="1">
